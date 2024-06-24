@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @ModeCyber
-- 👀 I’m interested in showcasing my project, learning and giving back
-- 🌱 I’m currently learning different other things which has everything to do with Securing a system
-- 💞️ I’m looking to collaborate on everything security
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Computers, computers, computers
+👋 Hi, I’m @ModeCyber
+
+👀 I’m interested in showcasing my projects, learning, and giving back to the community.
+
+🌱 I’m currently learning everything related to securing systems and improving cybersecurity measures.
+
+💞️ I’m looking to collaborate on all things security. Whether it's penetration testing, network security, or cybersecurity awareness, I’m in!
+
+📫 How to reach me:
+
+[[LinkedIn
+](https://www.linkedin.com/in/kobeshawnlee/)
+
+😄 Pronouns: he/him/his
+
+⚡ Fun fact: Computers, computers, computers! I'm passionate about all things tech and always eager to dive into new challenges.
+
+
 
 <!---
 ModeCyber/ModeCyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
