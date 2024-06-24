@@ -8,8 +8,8 @@
 
 📫 How to reach me:
 
-[[LinkedIn
-](https://www.linkedin.com/in/kobeshawnlee/)
+LinkedIn
+(https://www.linkedin.com/in/kobeshawnlee/)
 
 😄 Pronouns: he/him/his
 
