@@ -13,7 +13,7 @@ LinkedIn
 
 😄 Pronouns: he/him/his
 
-⚡ Fun fact: Computers, computers, computers! I'm passionate about all things tech and always eager to dive into new challenges.
+⚡ Fun fact: Computers, computers and music! I'm passionate about all things tech and always eager to dive into new challenges.
 
 
 
