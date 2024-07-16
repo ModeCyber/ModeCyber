@@ -2,7 +2,7 @@
 
 👀 I’m interested in showcasing my projects, learning, and giving back to the community.
 
-🌱 I’m currently learning everything related to securing systems and improving cybersecurity measures.
+🌱 I’m currently improving cybersecurity measures and learning everything related to securing systems.
 
 💞️ I’m looking to collaborate on all things security. Whether it's penetration testing, network security, or cybersecurity awareness, I’m in!
 
