@@ -1,19 +1,19 @@
-👋 Hi, I’m @ModeCyber
+Hi, I’m @ModeCyber
 
-👀 I’m interested in showcasing my projects, learning, and giving back to the community.
+I’m interested in showcasing my projects, learning, and giving back to the community.
 
-🌱 I’m currently improving cybersecurity measures and learning everything related to securing systems.
+I’m currently improving cybersecurity measures and learning everything related to securing systems.
 
-💞️ I’m looking to collaborate on all things security. Whether it's penetration testing, network security, or cybersecurity awareness, I’m in!
+I’m looking to collaborate on all things security. Whether it's penetration testing, network security, or cybersecurity awareness, I’m in!
 
-📫 How to reach me:
+How to reach me:
 
 LinkedIn
 (https://www.linkedin.com/in/kobeshawnlee/)
 
-😄 Pronouns: he/him/his
+Pronouns: he/him/his
 
-⚡ Fun fact: Computers, computers and music! I'm passionate about all things tech and always eager to dive into new challenges.
+Fun fact: Computers, computers and music! I'm passionate about all things tech and always eager to dive into new challenges.
 
 
 
